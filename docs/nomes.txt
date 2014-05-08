@@ -1,1 +1,8 @@
-Incompleto
+Cleverton Scallice  = 7546    -> Gerente
+Alexandre Ferreira  = 8356    -> Responsável pelo Cntroller
+Andreo Santana      = 6635    -> Responsável pela View
+Cleverton Scallice  = 6635    -> Responsável pela Model
+
+
+Repositório
+https://github.com/andreoADS/AtividadeIntegrada
