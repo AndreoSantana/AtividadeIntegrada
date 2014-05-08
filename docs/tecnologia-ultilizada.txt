@@ -1,0 +1,9 @@
+- PHP
+- PHP Orientado a Objeto
+- Netbeans
+- Sublime
+- CSS
+- jQuery
+- HTML
+- MySQL
+- Bootstrap
